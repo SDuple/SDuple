@@ -9,5 +9,4 @@
 # 🎀Contacto🎀
 <p align="left">
 <a href="https://www.instagram.com/sofia_duple/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sofia_duple" height="30" width="40" /></a>
-<a href="https://discordapp.com/users/1004192713014513694" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discordapp.com/users/1004192713014513694" height="30" width="40" /></a>
 </p>
