@@ -4,10 +4,7 @@
 </div>
 <br>
 
-  
 [![Welcome.png](https://i.postimg.cc/nzw262nk/Welcome.png)](https://postimg.cc/DJL1GqJJ)
-
-
 
  # 🌸i´m Sofia Duplessis🌸
 <a href="https://www.linkedin.com/in/sofia-duplessis-850a63289/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
