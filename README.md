@@ -8,11 +8,11 @@
 [![Welcome.png](https://i.postimg.cc/nzw262nk/Welcome.png)](https://postimg.cc/DJL1GqJJ)
 
 <a href="https://www.linkedin.com/in/sofia-duplessis-850a63289/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "mailto:sofyduple58@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
   
  # 🌸i´m Sofia Duplessis🌸
 
-# 💫 About Me:
+# 🌟 About Me:
 📚 Alumna de la cohorte 2023 de la Tecnicatura Universitaria en Programación en la UTN.<br>💼 Miembro activo del grupo Concatenados .<br>🌟 Apasionada por la resolución de problemas y la creación de soluciones innovadoras.<br>📈 Siempre en busca de aprender y crecer como desarrolladora.Actualmente aprendiendo<br><br>
 
 
