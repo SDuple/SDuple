@@ -1,10 +1,13 @@
- src="https://komarev.com/ghpvc/?username=SDuple&color=ff69b4"><br>
+<img align="right" src="https://komarev.com/ghpvc/?username=SDuple&color=ff69b4"><br>
 <div align="center">
-  <a href="https://github.com/SDuple.com">
+  <a href="https://github.com/SDuple">
     <img align="center" src="Welcome.png" width="500">
   </a>
 </div>
 <br>
+
+<div align="center">
+
 
 <div align="center">
  # 🌸Hi! i´m Sofia Duplessis🌸
