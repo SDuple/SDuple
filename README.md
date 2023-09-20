@@ -9,7 +9,10 @@
 <div align="center">
 
 
-<div align="center">
+
+
+
+  
  # 🌸Hi! i´m Sofia Duplessis🌸
 
 # 💫 About Me:
