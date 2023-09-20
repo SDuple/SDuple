@@ -3,8 +3,12 @@
   </a>
 </div>
 <br>
+<div align="center"> 
 
+  
 [![Welcome.png](https://i.postimg.cc/nzw262nk/Welcome.png)](https://postimg.cc/DJL1GqJJ)
+
+
 
 
  # 🌸i´m Sofia Duplessis🌸
