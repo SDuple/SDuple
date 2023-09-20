@@ -13,7 +13,7 @@
 
 
   
- # 🌸Hi! i´m Sofia Duplessis🌸
+ # 🌸i´m Sofia Duplessis🌸
 
 # 💫 About Me:
 📚 Alumna de la cohorte 2023 de la Tecnicatura Universitaria en Programación en la UTN.<br>💼 Miembro activo del grupo Concatenados .<br>🌟 Apasionada por la resolución de problemas y la creación de soluciones innovadoras.<br>📈 Siempre en busca de aprender y crecer como desarrolladora.Actualmente aprendiendo<br><br>
