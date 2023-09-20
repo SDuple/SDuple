@@ -1,7 +1,4 @@
-   <img align="center" src="Welcome.png" width="500">
-  </a>
-</div>
-<br>
+
 
 <div align="center">
  # 🌸Hi! i´m Sofia Duplessis🌸
