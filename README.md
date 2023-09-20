@@ -1,7 +1,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=SDuple&color=ff69b4"><br>
 
   <a href="https://github.com/SDuple">
-[![Welcome.png](https://i.postimg.cc/nzw262nk/Welcome.png)](https://postimg.cc/DJL1GqJJ)    
+
   </a>
 </div>
 <br>
@@ -9,7 +9,7 @@
 <div align="center">
 
 
-
+[![Welcome.png](https://i.postimg.cc/nzw262nk/Welcome.png)](https://postimg.cc/DJL1GqJJ)
 
 
   
