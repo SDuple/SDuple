@@ -1,3 +1,4 @@
+<imagen alinear="centro" src="Bienvenido.png" ancho="500">
  # 🌸Hi! i´m Sofia Duplessis🌸
 
 # 💫 About Me:
