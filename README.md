@@ -1,17 +1,14 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=SDuple&color=ff69b4"><br>
-
   <a href="https://github.com/SDuple">
-
   </a>
 </div>
 <br>
-
 <div align="center">
-
 
 [![Welcome.png](https://i.postimg.cc/nzw262nk/Welcome.png)](https://postimg.cc/DJL1GqJJ)
 
-
+<a href="https://www.linkedin.com/in/sofia-duplessis-850a63289/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:sofyduple58@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   
  # 🌸i´m Sofia Duplessis🌸
 
